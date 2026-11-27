@@ -10,7 +10,7 @@
 
 # Nuestra Misión 🎯:
 
-buscamos mantener viva la experiencia de MAA 2, restaurando su contenido, personajes y mecánicas originales, mientras continuamos su desarrollo mediante mejoras, nuevas características y contenido adicional para que tanto antiguos jugadores como nuevas generaciones puedan disfrutar nuevamente de esta experiencia.
+MAA 2: Reimagined nace con el objetivo de devolver a los fans la experiencia clásica de Marvel: Avengers Alliance 2. El proyecto busca recuperar y preservar la esencia del RPG táctico original, asi mismo estamos buscamos mantener viva la experiencia de MAA 2, restaurando su contenido, personajes y mecánicas originales, mientras continuamos su desarrollo mediante mejoras, nuevas características y contenido adicional para que tanto antiguos jugadores como nuevas generaciones puedan disfrutar nuevamente de esta experiencia.
 
 ---
 # Instalación 💾:
@@ -24,7 +24,7 @@ buscamos mantener viva la experiencia de MAA 2, restaurando su contenido, person
 <!-- - Descarga el archivo `.zip` desde el apartado Releases -->
 - Extrae el archivo `.zip` y colócalo en un lugar accesible
 <!-- Markut -->
-- Install y Ejecuta el archivo .APK `Alliance2.apk`
+- Instala y Ejecuta el archivo .APK `Alliance2.apk`
 <!-- espacio en blanco -->
 
 <!-- espacio en blanco -->
