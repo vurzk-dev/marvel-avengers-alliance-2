@@ -24,7 +24,7 @@ MAA 2: Reimagined nace con el objetivo de devolver a los fans la experiencia cl√
 <!-- - Descarga el archivo `.zip` desde el apartado Releases -->
 - Extrae el archivo `.zip` y col√≥calo en un lugar accesible
 <!-- Markut -->
-- Instala y Ejecuta el archivo .APK `Alliance2.apk`
+- Instala y Ejecuta el archivo APK `Alliance2.apk`
 <!-- espacio en blanco -->
 
 <!-- espacio en blanco -->
